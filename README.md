@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pillodisk
 - 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning HTML,CSS
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Basic Web Sites
 - 📫 How to reach me ...
 
